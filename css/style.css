@@ -21,15 +21,18 @@ header {
     color: gray;
 }
 
-#text_blue{
+#text_blue {
     color: royalblue;
 }
 
-.small_text{
+.small_text {
     font-size: 0.85rem;
 }
 
-#highlight{
+#highlight {
     background-color: yellow;
 }
- 
+
+#main_list {
+    padding: 16px;
+}
