@@ -36,3 +36,25 @@ header {
 #main_list {
     padding: 16px;
 }
+
+#table {
+    border-collapse: collapse;
+}
+
+.right_padding {
+    margin-right: 20px;
+}
+
+.table_odd {
+    background-color: rgb(0, 162, 255);
+}
+
+.table_even {
+    background-color: rgb(255, 255, 255);
+}
+
+.table_head {
+    background-color: rgb(0, 102, 255);
+    text-align: left;
+    color: white;
+}
